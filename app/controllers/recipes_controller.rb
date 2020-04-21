@@ -21,10 +21,12 @@ class RecipesController < ApplicationController
     @recipe = current_user.recipes.build(recipe_params)
     if @recipe.save
       redirect_to recipe_path(@recipe)
+    else
+      5.times {@recipe.recipe_ingredients.build.build_ingredient}
+      render 'new'
     end
-  else
-    5.times {@recipe.recipe_ingredients.build.build_ingredient}
-    render 'new'
   end
-  
+  def update
+    respond_to do |format|
+  end
 end

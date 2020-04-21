@@ -37,14 +37,12 @@
     <orderEntry type="library" scope="PROVIDED" name="activejob (v6.0.2.2, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v6.0.2.2, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v6.0.2.2, jruby-9.2.9.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activerecord-jdbcsqlite3-adapter (v60.1, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activestorage (v6.0.2.2, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v6.0.2.2, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.7.0, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.1.4, jruby-9.2.9.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="capybara (v3.31.0, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.6, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.9.0, jruby-9.2.9.0-p0) [gem]" level="application" />
@@ -63,7 +61,6 @@
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.4, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.2, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, jruby-9.2.9.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rails (v6.0.2.1, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.0.3, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.3.0, jruby-9.2.9.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.1, jruby-9.2.9.0-p0) [gem]" level="application" />
